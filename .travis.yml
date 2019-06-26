@@ -1,6 +1,5 @@
 language: java
 os: linux
-dist: xenial
 sudo: required
 
 script:
