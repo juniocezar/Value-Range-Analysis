@@ -1,6 +1,5 @@
 language: java
 os: linux
-sudo: required
 
 script:
 - mvn test -B
